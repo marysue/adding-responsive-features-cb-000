@@ -8,7 +8,7 @@
     #social {
       /* don't want this positioned fixed */
       position: absolute;
-      top: 100px;
+      top: 80px;
       right: 4%;
       width: auto;
     }
@@ -35,7 +35,7 @@
       }
 
       #social {
-        top: 90px;
+        top: 72px;
       }
 
       .col-3 p {
@@ -99,7 +99,7 @@
   }
 
   #social {
-    top: 90px;
+    top: 60px;
   }
 }
 
