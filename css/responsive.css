@@ -16,7 +16,7 @@
     #social a {
       display: inline-block;
     }
-
+}
     @media only screen and (max-width: 900px) {
       /* because the navigation bar is getting smushed, and
       because font could probably go down as image goes down */
@@ -51,5 +51,3 @@
       }
     }
 
-
-}
