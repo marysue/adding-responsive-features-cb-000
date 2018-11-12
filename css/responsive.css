@@ -16,4 +16,24 @@
     #social a {
       display: inline-block;
     }
+
+    @media only screen and (max-width: 900px) {
+      /* because the navigation bar is getting smushed, and
+      because font could probably go down as image goes down */
+      body {
+        font-size: 85%;
+      }
+
+      #logo h1 {
+        /*h1 is the logo and h2 is the Script Exceptional Realty */
+        width: 35px;
+        height: 35px;
+      }
+
+      #logo h2 {
+        font-size: 2.2em;
+      }
+    }
+
+    
 }
