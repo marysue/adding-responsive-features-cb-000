@@ -8,7 +8,7 @@
     #social {
       /* don't want this positioned fixed */
       position: absolute;
-      top: 82px;
+      top: 80px;
       right: 4%;
       width: auto;
     }
