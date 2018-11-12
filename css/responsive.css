@@ -1,0 +1,19 @@
+@media only screen and (max-width: 1108px) {
+  /* write styles we want to kick in for screens < 1108 px */
+    .wrapper {
+      /* not to be fixed anymore */
+      width: 90%; /*5% on each side */
+    }
+
+    #social {
+      /* don't want this positioned fixed */
+      position: absolute;
+      top: 82px;
+      right: 4%;
+      width: auto;
+    }
+
+    #social a {
+      display: inline-block;
+    }
+}
